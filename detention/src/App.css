@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.chalk {
+  font-family: Chalkduster, fantasy;
+  color: white;
+}
+
+.board {
+  background-color: black;
+}
